@@ -1,4 +1,2 @@
 Hola Guys!
-This is repository to help people and encourage and increase involvement in Hactoberfest.
-Feel free to place a PR, Enjoy the Festival
-hello i am anshul 
+This is repository to help people who are willing to work with the cnn.In this i have make a small project on the human vs horse classifier which is the great start for the classifier problem. It will help a lot to the beginners who want their carrer in the deep learning and basically is the mini project which was given us as a assignment in the course of the coursera.Also those who want to make cahnges they are most invited.
